@@ -1,0 +1,21 @@
+.bgdota {
+  position: absolute; 
+  width: 100vw; 
+  height: 100vh; 
+  top: 0px; 
+  left: 0px; 
+  object-fit: cover; 
+  z-index: 0;
+}
+
+.retroeffect {
+  z-index: 2;
+  position: absolute; 
+  width: 100vw; 
+  height: 100vh; 
+  top: 0px; 
+  left: 0px; 
+  object-fit: 
+  cover;
+  opacity: 0.2;
+}
